@@ -1,0 +1,9 @@
+table{
+    border: 2px solid purple;
+    padding: 10px;
+}
+th{
+    align-content: space-between;
+    border: 2px solid rgb(43, 0, 128);
+    padding: 5;
+}
