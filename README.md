@@ -2,8 +2,9 @@
 
 ## Descripción
 Tercer trabajo practico del leguaje de javascript.
-Ejercicio de los sigueintes temas:
+Ejercicio de los siguientes temas:
 - Arrays
+- Funciones
 
 ## Herramientas/Tecnologias 🛠
 
